@@ -3,7 +3,7 @@
 <h1 align="center"> My latest developments
 
 ## <a href="https://www.nadiadaguanno.com" >Nadia D'Aguanno WebSite</a> 
-Website made for a singer. On this site you can view the latest music releases, the latest news and listen to the songs in the digital sotres. You can also view the videos on you tube.
+Website made for a singer. On this site you can view the latest music releases, the latest news and listen to the songs in the digital sotres. You can also view the YouTube video.
  <p align = "center">
  Built With 
  </p>
