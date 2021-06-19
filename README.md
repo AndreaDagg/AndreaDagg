@@ -1,12 +1,8 @@
-### Hi there 👋
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Facebook][facebook-shield]][facebook-url]
-<!--
-**AndreaDagg/AndreaDagg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<h1>My latest developments</h1>
+# My latest developments</h1>
 
 ## <a href="https://www.nadiadaguanno.com" >Nadia D'Aguanno WebSite</a> 
+Website made for a singer. Start of development July 2020.
 ### Built With  
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,10 +12,12 @@
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 [![Product Name Screen Shot][product-screenshot]](https://www.nadiadaguanno.com)
  
- 
-* <a href="https://www.gendomanalisi1.altervista.org">Genera domande</a>
 
 
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Facebook][facebook-shield]][facebook-url]
+<!--
+**AndreaDagg/AndreaDagg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaDagg&show_icons=true&theme=radical)
