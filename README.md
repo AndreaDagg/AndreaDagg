@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Facebook][facebook-shield]][facebook-url]
 <!--
 **AndreaDagg/AndreaDagg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <h1>My latest developments</h1>
@@ -18,5 +19,7 @@
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[linkedin-shield]: https://image.flaticon.com/icons/png/512/174/174857.png
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin
 [linkedin-url]: https://www.linkedin.com/in/andreadagg/
+[facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=for-the-badge&logo=facebook
+[facebook-url]: https://www.facebook.com/andrea.daguanno.3/
