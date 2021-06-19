@@ -1,19 +1,27 @@
 
-# My latest developments</h1>
+<h1 align="center"> My latest developments
 
 ## <a href="https://www.nadiadaguanno.com" >Nadia D'Aguanno WebSite</a> 
 Website made for a singer. Start of development July 2020.
-### Built With  
-![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+ <p align = "center">
+ Built With 
+ </p>
+ 
+ 
+ <p align="center">
+  
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  </p>
+ 
 [![Product Name Screen Shot][product-screenshot]](https://www.nadiadaguanno.com)
  
 
-
+## How to reach me
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Facebook][facebook-shield]][facebook-url]
 <!--
