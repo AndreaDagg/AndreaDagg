@@ -23,4 +23,4 @@
 [linkedin-url]: https://www.linkedin.com/in/andreadagg/
 [facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=for-the-badge&logo=facebook
 [facebook-url]: https://www.facebook.com/andrea.daguanno.3/
-[product-screenshot]: images/screenshot_nad.png
+[product-screenshot]: images/Screenshot_Nad.png
