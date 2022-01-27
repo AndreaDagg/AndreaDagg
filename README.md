@@ -26,7 +26,7 @@ Website made for a singer. On this site you can view the latest music releases, 
 <p align="center">
 <a href="https://github.com/AndreaDagg">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AndreaDagg&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AndreaDagg&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AndreaDagg&layout=compact&langs_count=8&theme=danger"/>
 </a>
 </p>
  
