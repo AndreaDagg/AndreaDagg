@@ -45,8 +45,8 @@ Website made for a singer. On this site you can view the latest music releases, 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin-url]: https://www.linkedin.com/in/andreadaguanno/
-[twitter-shield]: 	[https://img.shields.io/badge/Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-[twitter-url]: https://twitter.com/andrea__dagg
+[linkedin-url]:    https://www.linkedin.com/in/andreadaguanno/
+[twitter-shield]:  https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+[twitter-url]:     https://twitter.com/andrea__dagg
 
 [product-screenshot]: images/Screenshot_Nad.png
