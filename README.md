@@ -30,12 +30,11 @@ Website made for a singer. On this site you can view the latest music releases, 
 </a>
 </p>
  
-<p align="center">
 ## How to reach me
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter][twitter-shield]][twitter-url]
 [![Microsoft_Outlook][mail-shield]][mail-url]
-</p>
+
 
 <!--
 **AndreaDagg/AndreaDagg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
