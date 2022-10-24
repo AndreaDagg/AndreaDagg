@@ -34,6 +34,9 @@ Website made for a singer. On this site you can view the latest music releases, 
 ## How to reach me
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter][twitter-shield]][twitter-url]
+[![Microsoft_Outlook][mail-shield]][mail-url]
+ 
+
 <!--
 **AndreaDagg/AndreaDagg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -48,5 +51,7 @@ Website made for a singer. On this site you can view the latest music releases, 
 [linkedin-url]:    https://www.linkedin.com/in/andreadaguanno/
 [twitter-shield]:  https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 [twitter-url]:     https://twitter.com/andrea__dagg
+[mail-shield]:     https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
+[mail-url]:        mailto:daguannoandrea@outlook.com
 
 [product-screenshot]: images/Screenshot_Nad.png
