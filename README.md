@@ -46,7 +46,7 @@ Website made for a singer. On this site you can view the latest music releases, 
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/andreadaguanno/
-[facebook-shield]: 	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
+[facebook-shield]: 	https://img.shields.io/badge/Twitter
 [facebook-url]: https://www.facebook.com/andrea.daguanno.3/
 
 [product-screenshot]: images/Screenshot_Nad.png
