@@ -53,4 +53,4 @@ Website made for a singer. On this site you can view the latest music releases, 
 [mail-shield]:     https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
 [mail-url]:        mailto:daguannoandrea@outlook.com
 
-[product-screenshot]: images/Screenshot_Nad.png
+[product-screenshot]: images/N.V.2.png
