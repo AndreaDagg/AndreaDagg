@@ -2,6 +2,8 @@
 ### I’m a recent graduate in Software Systems Security 👨‍💻️🔐️. 
 ### I’m passionate about technology, programming, and cybersecurity, and I’m always excited to learn more. 
 
+
+
 <h1 align="center"> My latest developments
 
 ## <a href="https://www.nadiadaguanno.com" >Nadia D'Aguanno WebSite</a> 
