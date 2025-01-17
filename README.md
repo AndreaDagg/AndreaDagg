@@ -1,6 +1,5 @@
 ## Hi, I’m Andrea, but you can call me D'Agg. 
-### I’m a recent graduate in Software Systems Security 👨‍💻️🔐️. 
-### I’m passionate about technology, programming, and cybersecurity, and I’m always excited to learn more. 
+### I’m a recent graduate in Software Systems Security 👨‍💻️🔐️. <br> I’m passionate about technology, programming, and cybersecurity, and I’m always excited to learn more. 
 
 
 
